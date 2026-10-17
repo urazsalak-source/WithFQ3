@@ -1,0 +1,12 @@
+{
+  "key.withfq.open_gui": "Open ClickGUI",
+  "key.withfq.watermark": "Toggle Watermark",
+  "key.withfq.fps": "Toggle FPS",
+  "key.withfq.coords": "Toggle Coords",
+  "key.withfq.ping": "Toggle Ping",
+  "key.withfq.keystrokes": "Toggle KeyStrokes",
+  "key.withfq.fullbright": "Toggle Fullbright",
+  "key.withfq.zoom": "Toggle Zoom",
+  "key.withfq.modulelist": "Toggle ModuleList",
+  "key.withfq.togglesprint": "Toggle ToggleSprint"
+}
